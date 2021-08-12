@@ -20,11 +20,5 @@ export const SidebarData = [
         path: '/contact',
         icon: <AiIcons.AiOutlineContacts/>,
         cName: 'nav-text'
-    },
-    {
-        title: 'Resume',
-        path: '#',
-        icon: <AiIcons.AiOutlineDownload/>,
-        cName: 'nav-text'
     }
 ]

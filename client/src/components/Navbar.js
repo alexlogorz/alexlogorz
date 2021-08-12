@@ -7,6 +7,7 @@ import '../css/Navbar.css'
 import { IconContext } from 'react-icons/lib';
 import { Container } from 'react-bootstrap'
 import NavbarContext from './NavbarContext';
+import resume from '../images/alexlogorz-resume.pdf'
 
 const Navbar = () => {
     const {state, dispatch} = useContext(NavbarContext)
@@ -38,6 +39,12 @@ const Navbar = () => {
                                 );
                             })
                         }
+                        <li className='nav-text'>
+                            <Link to={resume} target="_blank" download>
+                                <AiIcons.AiOutlineDownload />
+                                <span>Resume</span>
+                            </Link>
+                        </li>
                     </ul>
                 </nav>
             </IconContext.Provider>
