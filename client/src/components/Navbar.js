@@ -7,7 +7,7 @@ import '../css/Navbar.css'
 import { IconContext } from 'react-icons/lib';
 import { Container } from 'react-bootstrap'
 import NavbarContext from './NavbarContext';
-import resume from '../images/alexlogorz-resume.pdf'
+import resume from '../images/alexlogorz-resume.PDF'
 
 const Navbar = () => {
     const {state, dispatch} = useContext(NavbarContext)
