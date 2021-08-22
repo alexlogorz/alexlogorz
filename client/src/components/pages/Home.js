@@ -34,9 +34,7 @@ const Home = () => {
                             <div className='panel'>
                                 <h3>#About</h3>
                                 <p>
-                                    I'm a software engineer and YouTuber that makes easy-to-follow coding tutorials. In Dec 2021, I will graduate from USF, but my journey won't end there. 
-                                    After I graduate, I plan to continue my career as a software engineer and be around people who also share a love for code. If you would like to get to know
-                                    more about me, please download a resume or contact me.
+                                    Motivated Software Engineer intern dedicated to improving skills and continuous learning. Proficient in building and deploying web applications using the MERN stack. On my free time I make YouTube tutorials helping others to learn to code in the JavaScript language and more.
                                 </p>
                             </div>
                         </Col>
