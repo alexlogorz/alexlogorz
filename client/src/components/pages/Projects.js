@@ -29,7 +29,7 @@ const Projects = () => {
                         <Col className='Col'>
                             <div className='panel'>
                                 <h3>#Projects</h3>
-                                <h4><AiIcons.AiOutlineDownload/> Snatch my resume</h4>
+                                <h4>Download a copy of my resume to see recent projects</h4>
                             </div>
                         </Col>
                     </Row>
