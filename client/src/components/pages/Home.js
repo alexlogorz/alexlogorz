@@ -34,7 +34,7 @@ const Home = () => {
                             <div className='panel'>
                                 <h3>#About</h3>
                                 <p>
-                                    Motivated Software Engineer intern dedicated to improving skills and continuous learning. Proficient in building and deploying web applications using the MERN stack. On my free time I make YouTube tutorials helping others to learn to code in the JavaScript language and more.
+                                    Motivated Software Engineer dedicated to improving my skills and continuous learning. On my free time, I share my passion by making coding tutorials on youtube.
                                 </p>
                             </div>
                         </Col>
@@ -44,11 +44,14 @@ const Home = () => {
                             <div className='panel'>
                                 <h3>#Skills</h3>
                                 <ul>
-                                    <li><SiIcons.SiJavascript className='icon'/>JavaScript</li>
-                                    <li><BiCoinStack className='icon'/>MERN Stack</li>
-                                    <li><FcEngineering className='icon'/>Software Engineering</li>
+                                    <li><FcEngineering className='icon'/>React</li>
+                                    <li><FcEngineering className='icon'/>Javascript</li>
+                                    <li><FcEngineering className='icon'/>Express</li>
+                                    <li><FcEngineering className='icon'/>Node</li>
+                                    <li><FcEngineering className='icon'/>Agile/Scrum</li>
+                                    <li><FcEngineering className='icon'/>Data structures</li>
                                 </ul>
-                                <p>... I'm also <i>kinda</i> funny sometimes.</p>
+                                <p>... Download my resume for more</p>
                             </div>
                         </Col>
                         <Col className='Col' md={6}>

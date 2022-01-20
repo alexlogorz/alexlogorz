@@ -29,7 +29,7 @@ const Contact = () => {
                         <Col className='Col'>
                             <div className='panel'>
                                 <h3>#Contact</h3>
-                                <h4>For business inquiries please email <b>alex.logorz@gmail.com</b> or download my resume for additional contact info</h4>
+                                <p>For business inquiries please email alogorz@usf.edu or download my resume for additional contact info</p>
                             </div>
                         </Col>
                     </Row>
